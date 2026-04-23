@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Full Stack Developer with ~3 years of experience building scalable, high-performance web applications using the MERN stack.<br><br>🚀 Built 15+ production-grade applications<br>⚡ Improved API performance by 40%<br>⚡ Reduced frontend load time by 60%<br>🧠 Currently transitioning into AI/ML + Backend Scalability<br><br>I don’t just write code — I build systems that solve real business problems.
+I’m a Full Stack Developer with ~3 years of experience building scalable, high-performance web applications using the MERN stack.<br><br>🚀 Built 50+ production-grade applications<br>⚡ Improved API performance by 40%<br>⚡ Reduced frontend load time by 60%<br>🧠 Currently transitioning into AI/ML + Backend Scalability<br><br>I don’t just write code — I build systems that solve real business problems.
 
 
 ## 🌐 Socials:
